@@ -1,0 +1,14 @@
+{
+  "name": "electronnotes",
+  "version": "1.0.0",
+  "description": "Takes Notes desktop app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Alexander Bercow",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^4.0.1"
+  }
+}
